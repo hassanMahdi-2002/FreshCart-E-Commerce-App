@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Title Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=750&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=E-Commerce+Application+(FreshCart)+%F0%9F%9B%92" alt="E-Commerce App" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=E-Commerce+Application+(FreshCart)+%F0%9F%9B%92" alt="E-Commerce App" />
 
 <br/>
 
