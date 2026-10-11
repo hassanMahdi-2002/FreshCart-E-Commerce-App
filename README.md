@@ -30,6 +30,22 @@
 
 ---
 
+### 🌐 Repository & Live Demo
+
+<div align="center">
+
+<a href="https://YOUR-VERCEL-LINK.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-22E58B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Live Demo" />
+</a>
+&nbsp;
+<a href="https://github.com/hassanMahdi-2002/FreshCart-E-Commerce-App" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-1F6FEB?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Repo" />
+</a>
+
+</div>
+
+
+
 ### 🛠️ Tech Stack
 
 <table width="100%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px;">
