@@ -68,8 +68,15 @@
 
 ### 🚀 Getting Started Locally
 
-#### 1. Clone the repository
 ```bash
+# 1. Clone the repository
 git clone [https://github.com/hassanMahdi-2002/FreshCart-E-Commerce-App.git](https://github.com/hassanMahdi-2002/FreshCart-E-Commerce-App.git)
+
+# 2. Navigate into the directory
 cd FreshCart-E-Commerce-App
+
+# 3. Install dependencies
 npm install
+
+# 4. Start the development server
+npm run start
